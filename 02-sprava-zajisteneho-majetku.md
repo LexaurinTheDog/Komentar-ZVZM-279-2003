@@ -22,6 +22,11 @@ Vůdčí myšlenkou hlavy III je **konzervační účel** správy: majetek obvin
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 12/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98C72296172311E9C125897E001B8CE9?openDocument) — 22. 12. 2022, kat. A
+  > „I. Rozhodnutím o zajištění majetku vydaným v trestním řízení nedochází ke změně vlastníka zajištěného majetku stejně tak nevede ke změně vlastníka zajištěného majetku ani případné následné písemné opatření, kterým příslušný orgán pověří k tomu určenou osobu správou zajištěného majetku (§ 9 odst. 1 a 7 zákona č. 279/2003 Sb., o výkonu zajištění majetku a věcí v trestním řízení a o změně některých zákonů). Správce zajištěného majetku podle zákona č. 279/2003 Sb. je zvláštním případem správce cizího majetku, přičemž jeho postavení je odvozeno od zajištění majetku vzniklého rozhodnutím státního orgánu. Uplatňuje-li věřitel pohledávku vůči dlužníku přihláškou v insolvenčním řízení, stává se správce zajištěného majetku osobou, která namísto dosavadního majitele (věřitele) a jeho případného dosavadního zástupce činí v souladu s ustanovením § 10 odst. 3 zákona o zajištění majetku v…"
+
 #### Kdy se majetek spravuje — konzervační účel (odst. 1)
 
 Odstavec 1 neformuluje povinnost spravovat každý zajištěný majetek, ale stanoví **podmínku potřebnosti**: správa podle zákona nastupuje, „pokud je zapotřebí právně jednat nebo činit potřebné úkony“. Účel je trojí: (i) zabránit *bezdůvodnému snížení hodnoty* (znehodnocení, ztráta tržní ceny), (ii) zabránit *zmenšení* majetku (úbytek, promlčení pohledávek, zánik práv) a (iii) popřípadě dosáhnout jeho *očekávaného zvýšení* (např. inkaso splatných výnosů). Slovo „bezdůvodně“ připouští, že k některému poklesu hodnoty dojde i při řádné správě (běžné opotřebení, tržní výkyvy); správce odpovídá jen za pokles, kterému šlo zabránit. Nevyžaduje-li povaha majetku žádné aktivní jednání (např. peníze na účtu soudu), správa se fakticky omezuje na evidenci (§ 10 odst. 4).
@@ -122,6 +127,11 @@ Konzultace nemá formu závazného stanoviska; Ministerstvo vnitra nerozhoduje o
 > (4) Obsahem smlouvy podle odstavce 2 písm. c) musí být i ujednání o povinnosti smluvního správce mít po dobu výkonu správy uzavřenou smlouvu o pojištění odpovědnosti za škodu nebo jinou újmu podle § 8a odst. 4. Smlouva může být uzavřena i pro výkon dílčího právního jednání nebo úkonu spojeného se zajištěným majetkem. Přichází-li v úvahu prodej zajištěného majetku, musí smlouva obsahovat i ujednání o způsobu stanovení kupní ceny a o postupu při prodeji. Ve smlouvě je třeba upravit i způsob přechodu práv a povinností vyplývajících ze smlouvy uzavřené policejním orgánem nebo státním zástupcem z tohoto orgánu na soud. Výkon správy smluvním správcem začíná uzavřením smlouvy a převzetím majetku, který má být spravován.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 12/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98C72296172311E9C125897E001B8CE9?openDocument) — 22. 12. 2022, kat. A
+  > „I. Rozhodnutím o zajištění majetku vydaným v trestním řízení nedochází ke změně vlastníka zajištěného majetku stejně tak nevede ke změně vlastníka zajištěného majetku ani případné následné písemné opatření, kterým příslušný orgán pověří k tomu určenou osobu správou zajištěného majetku (§ 9 odst. 1 a 7 zákona č. 279/2003 Sb., o výkonu zajištění majetku a věcí v trestním řízení a o změně některých zákonů). Správce zajištěného majetku podle zákona č. 279/2003 Sb. je zvláštním případem správce cizího majetku, přičemž jeho postavení je odvozeno od zajištění majetku vzniklého rozhodnutím státního orgánu. Uplatňuje-li věřitel pohledávku vůči dlužníku přihláškou v insolvenčním řízení, stává se správce zajištěného majetku osobou, která namísto dosavadního majitele (věřitele) a jeho případného dosavadního zástupce činí v souladu s ustanovením § 10 odst. 3 zákona o zajištění majetku v…"
 
 #### Základní správci: soud a Ministerstvo vnitra (odst. 1)
 
@@ -380,6 +390,11 @@ U celního a daňového zboží, radioaktivních odpadů a zdrojů záření, ch
 > (6) Pro účely řádného výkonu správy zajištěného majetku je správce oprávněn činit všechny potřebné úkony, zejména je oprávněn nahlížet do účetních záznamů, smluv a dalších písemností, pořizovat jejich kopie, na nezbytnou dobu si vyžádat doklady a jiné dokumenty potřebné pro účely správy zajištěného majetku a vstupovat na místa, kde se nacházejí, nejde-li o obydlí; obviněný, jakož i jiné osoby, vůči nimž je úkon prováděn, jsou povinni správci poskytnout veškerou potřebnou součinnost. Pokud osoby uvedené ve větě první bez dostatečné omluvy neuposlechnou příkazu nebo nevyhoví výzvě správce a neposkytnou mu potřebnou součinnost, může jim soud uložit pořádkovou pokutu do 50 000 Kč; neuposlechne-li takového příkazu nebo výzvy osoba, která jedná za právnickou osobu, může být právnické osobě, kterou zastupuje, uložena pořádková pokuta do 500 000 Kč; o tom je třeba tyto osoby předem poučit. Proti rozhodnutí o uložení pořádkové pokuty je přípustná stížnost, jež má odkladný účinek; na rozhodování o stížnosti se obdobně užije § 146a trestního řádu.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 12/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98C72296172311E9C125897E001B8CE9?openDocument) — 22. 12. 2022, kat. A
+  > „I. Rozhodnutím o zajištění majetku vydaným v trestním řízení nedochází ke změně vlastníka zajištěného majetku stejně tak nevede ke změně vlastníka zajištěného majetku ani případné následné písemné opatření, kterým příslušný orgán pověří k tomu určenou osobu správou zajištěného majetku (§ 9 odst. 1 a 7 zákona č. 279/2003 Sb., o výkonu zajištění majetku a věcí v trestním řízení a o změně některých zákonů). Správce zajištěného majetku podle zákona č. 279/2003 Sb. je zvláštním případem správce cizího majetku, přičemž jeho postavení je odvozeno od zajištění majetku vzniklého rozhodnutím státního orgánu. Uplatňuje-li věřitel pohledávku vůči dlužníku přihláškou v insolvenčním řízení, stává se správce zajištěného majetku osobou, která namísto dosavadního majitele (věřitele) a jeho případného dosavadního zástupce činí v souladu s ustanovením § 10 odst. 3 zákona o zajištění majetku v…"
 
 #### Aktivní povinnosti k ochraně hodnoty (odst. 1)
 

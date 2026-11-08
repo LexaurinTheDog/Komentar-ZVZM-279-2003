@@ -32,6 +32,11 @@ Kapitola je úzce propojena s trestním řádem, jehož úprava zajištění vě
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 12/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/98C72296172311E9C125897E001B8CE9?openDocument) — 22. 12. 2022, kat. A
+  > „I. Rozhodnutím o zajištění majetku vydaným v trestním řízení nedochází ke změně vlastníka zajištěného majetku stejně tak nevede ke změně vlastníka zajištěného majetku ani případné následné písemné opatření, kterým příslušný orgán pověří k tomu určenou osobu správou zajištěného majetku (§ 9 odst. 1 a 7 zákona č. 279/2003 Sb., o výkonu zajištění majetku a věcí v trestním řízení a o změně některých zákonů). Správce zajištěného majetku podle zákona č. 279/2003 Sb. je zvláštním případem správce cizího majetku, přičemž jeho postavení je odvozeno od zajištění majetku vzniklého rozhodnutím státního orgánu. Uplatňuje-li věřitel pohledávku vůči dlužníku přihláškou v insolvenčním řízení, stává se správce zajištěného majetku osobou, která namísto dosavadního majitele (věřitele) a jeho případného dosavadního zástupce činí v souladu s ustanovením § 10 odst. 3 zákona o zajištění majetku v…"
+
 #### Předmět a dvojí rozsah zákona (odst. 1 a 2)
 
 § 1 odst. 1 vymezuje dva okruhy působnosti. **První okruh** tvoří výkon rozhodnutí o zajištění majetku nebo jeho určené části pro tři taxativně uvedené účely: (i) **výkon trestu** (v úvahu přichází zejména zajištění pro výkon trestu propadnutí majetku podle § 347 trestního řádu a pro výkon peněžitého trestu podle § 344a trestního řádu), (ii) **výkon ochranného opatření zabrání části majetku** (§ 358b trestního řádu ve spojení s § 102a trestního zákoníku) a (iii) **uspokojení nároku poškozeného** (§ 47 trestního řádu). Trestní řád v těchto ustanoveních výslovně odkazuje na „zvláštní právní předpis“, který upraví výkon rozhodnutí o zajištění a správu zajištěného majetku (§ 47 odst. 8 trestního řádu, na nějž navazují § 344a odst. 3 a § 358b odst. 4) — tímto předpisem je právě komentovaný zákon.
