@@ -2,7 +2,7 @@
 
 > **Znění k 1. lednu 2026** (dokument e-Sbírky `SB-2003-00279_2026-01-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Komentář vychází z textu zákona, jeho systematiky, vazeb na trestní řád, občanský soudní řád a další dotčené předpisy a z obecných výkladových zásad. Repozitář neobsahuje místní judikaturu k tomuto zákonu, a komentář proto neuvádí žádné spisové značky ani právní věty; tam, kde se výklad dosud neustálil, je to v textu výslovně označeno jako „výkladová otázka“. Pro trestní řád a exekuční řád, do nichž zákon v části druhé a třetí zasáhl, je rozhodné jejich aktuální znění ve znění pozdějších předpisů, nikoli text novelizačních bodů z roku 2003.
+> **Metodická poznámka:** Komentář vychází z textu zákona, jeho systematiky, vazeb na trestní řád, občanský soudní řád a další dotčené předpisy a z obecných výkladových zásad. Repozitář obsahuje jednu místní judikaturní kartu k tomuto zákonu — [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) ze dne 22. 12. 2022 (kategorie A) — citovanou u § 1, § 8a, § 9 a § 10; jiné spisové značky ani právní věty komentář neuvádí. Tam, kde se výklad dosud neustálil, je to v textu výslovně označeno jako „výkladová otázka“. Pro trestní řád a exekuční řád, do nichž zákon v části druhé a třetí zasáhl, je rozhodné jejich aktuální znění ve znění pozdějších předpisů, nikoli text novelizačních bodů z roku 2003.
 
 ---
 
@@ -45,7 +45,7 @@ U **movitých věcí** zákon upravuje prohlídky, soupis, odnětí nebo **ponec
 
 ### Správa zajištěného majetku
 
-Správa má **konzervační účel** — zabránit bezdůvodnému snížení hodnoty nebo zmenšení majetku, případně dosáhnout jeho očekávaného zvýšení (§ 8a odst. 1). Správce vykonává jen ta práva, která mu přiznává zákon nebo jejichž výkon byl obviněnému zakázán, postupuje řádně a svědomitě, odpovídá za škodu s úzkým liberačním důvodem a musí být pojištěn (§ 8a). Základními správci jsou **soud a Ministerstvo vnitra**, subsidiárně organizační složka státu, soudní exekutor nebo **smluvní správce** (§ 9); pro podíl v obchodní korporaci nastupuje **správce podílu** z řad insolvenčních správců (§ 9b, § 10a, § 10b) a pro zvláštní druhy majetku (celní a hazardní delikty, radioaktivní odpady, chráněné druhy, zbraně a návykové látky) **zvláštní správci** ze zákona (§ 9c). Správce není oprávněn zajištěný majetek využívat, pronajmout, zatížit nebo převést (§ 10 odst. 5).
+Správa má **konzervační účel** — zabránit bezdůvodnému snížení hodnoty nebo zmenšení majetku, případně dosáhnout jeho očekávaného zvýšení (§ 8a odst. 1). Správce vykonává jen ta práva, která mu přiznává zákon nebo jejichž výkon byl obviněnému zakázán, postupuje řádně a svědomitě, odpovídá za škodu s úzkým liberačním důvodem a musí být pojištěn (§ 8a). Základními správci jsou **soud a Ministerstvo vnitra**, subsidiárně organizační složka státu, soudní exekutor nebo **smluvní správce** (§ 9); pro podíl v obchodní korporaci nastupuje **správce podílu** z řad insolvenčních správců (§ 9b, § 10a, § 10b) a pro zvláštní druhy majetku (celní a hazardní delikty, radioaktivní odpady, chráněné druhy, zbraně a návykové látky) **zvláštní správci** ze zákona (§ 9c). Správce není oprávněn zajištěný majetek využívat, pronajmout, zatížit nebo převést (§ 10 odst. 5). Podle místní karty [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) nemění vlastníka zajištěného majetku ani rozhodnutí o zajištění, ani pověření ke správě; správce je zvláštním případem správce cizího majetku a v insolvenčním řízení činí úkony namísto věřitele zajištěné pohledávky (§ 10 odst. 3), aniž by se sám stal jejím věřitelem z hlediska hmotného práva.
 
 ### Prodej zajištěného majetku
 
@@ -70,7 +70,7 @@ Prodej je součástí správy. Soud o něm rozhoduje buď s předchozím souhlas
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění**, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr a kontrolní checklist.
-- Kazuistiky jsou **modelové situace**, nikoli popisy skutečných rozhodnutí; komentář neobsahuje judikaturu ani vymyšlené spisové značky.
+- Kazuistiky jsou **modelové situace**, nikoli popisy skutečných rozhodnutí. Jedinou citovanou judikaturou je místní karta [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) (u § 1, § 8a, § 9 a § 10); za každým jejím blokem je odstavec vysvětlující, zda k danému ustanovení míří přímo, nebo nepřímo. Vymyšlené spisové značky komentář neobsahuje.
 - U novelizačních částí (§ 13–15) je citován text novelizačních bodů z roku 2003; platné znění dotčené úpravy je třeba hledat v novelizovaném předpise ve znění pozdějších předpisů.
 - Doprovodné soubory: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovnými citacemi z kapitol) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) (mapa normativních modalit).
 

@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-obecna-vykon-zajisteni.md](01-obecna-vykon-zajisteni.md), [02-sprava-zajisteneho-majetku.md](02-sprava-zajisteneho-majetku.md) a [03-novely-ucinnost.md](03-novely-ucinnost.md). **Repozitář neobsahuje žádnou místní judikaturu k zákonu č. 279/2003 Sb.**; zásady níže jsou proto dovozeny z textu zákona, jeho systematiky, vazeb na trestní řád a z výkladu podaného v kapitolách — nikoli z judikatorních tezí. Žádná spisová značka zde není uvedena a tam, kde by u jiného předpisu stála judikatorní citace, je namístě poctivě uvést, že opora v rozhodovací praxi v místních pramenech chybí. Každá citace v uvozovkách je doslovně převzata z uvedené kapitoly a ustanovení.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-obecna-vykon-zajisteni.md](01-obecna-vykon-zajisteni.md), [02-sprava-zajisteneho-majetku.md](02-sprava-zajisteneho-majetku.md) a [03-novely-ucinnost.md](03-novely-ucinnost.md). **Repozitář obsahuje jedinou místní judikaturní kartu k zákonu č. 279/2003 Sb.** — [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) ze dne 22. 12. 2022 (kat. A), citovanou v kapitolách u § 1, § 8a, § 9 a § 10. Zásady níže jsou dovozeny z textu zákona, jeho systematiky, vazeb na trestní řád a z výkladu podaného v kapitolách; karta je připojena jen jako podpůrná opora u zásady 7 (povaha správy a zachování vlastnictví). Jinou spisovou značku soubor neuvádí; u ostatních zásad místní judikaturní opora chybí. Každá citace v uvozovkách je doslovně převzata z uvedené kapitoly a ustanovení.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -162,7 +162,7 @@ Praktickým důsledkem zásady je, že správce musí aktivně sledovat hodnotu 
 
 ## 7. Účelová omezenost správcovských oprávnění
 
-**Zakotvení:** § 8a odst. 2, § 10 odst. 4 a 5; [02-sprava-zajisteneho-majetku.md](02-sprava-zajisteneho-majetku.md)
+**Zakotvení:** § 8a odst. 2, § 9, § 10 odst. 3 až 5; [02-sprava-zajisteneho-majetku.md](02-sprava-zajisteneho-majetku.md); místní karta [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md)
 
 Správce není vlastníkem a nevykonává vlastnická práva v plném rozsahu; jeho postavení je odvozené a omezené účelem správy. Komentář k § 8a odst. 2 to vyjadřuje stručně:
 
@@ -179,6 +179,20 @@ Totéž platí pro výkon jiných práv, která správce vykonává jen v rozsah
 Na účetní rovině se omezenost správy projevuje v tom, že majetek nepřechází do majetku správce; komentář k § 10 odst. 4 uvádí:
 
 > „Zajištěný majetek není předmětem účetnictví a inventarizace správce — zůstává majetkem obviněného a správce jej pouze eviduje.“
+
+Zachování vlastnictví podporuje místní karta [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md), kterou kapitola 2 cituje u § 8a, § 9 a § 10. Podle její právní věty
+
+> „Správce zajištěného majetku podle zákona č. 279/2003 Sb. je zvláštním případem správce cizího majetku, přičemž jeho postavení je odvozeno od zajištění majetku vzniklého rozhodnutím státního orgánu.“
+
+Komentář k § 9 z karty vyvozuje, že
+
+> „Pověření ke správě zajištěného majetku podle ní nemění vlastníka zajištěného majetku; pověřený správce nabývá oprávnění s majetkem disponovat k naplnění účelu správy“
+
+a komentář k § 10 odst. 3 dodává, že správce se
+
+> „výkonem správy nestává věřitelem pohledávky z hlediska hmotného práva“
+
+Karta se týká insolvenčního řízení a pohledávky přihlášené postupitelem i postupníkem; zásadu podpírá jen v rozsahu povahy správy a zachování vlastnictví, k mezím podle § 10 odst. 5 se nevyjadřuje.
 
 Praktickým důsledkem zásady je, že jakékoli využití zajištěného majetku nad rámec ochrany (pronájem, provozní užívání, zastavení) je nepřípustné bez ohledu na to, zda by bylo ekonomicky výhodné; jedinou cestou ke změně podoby majetku je soudem rozhodnutý prodej podle § 12.
 

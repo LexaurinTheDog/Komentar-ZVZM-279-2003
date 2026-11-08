@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **úvod a 3 kapitoly** (celkem **4 místní soubory**), **24 samostatně nadepsaných ustanovení** (§ 1–16 včetně § 8a, § 8b, § 9a, § 9b, § 9c, § 10a, § 10b a § 12a), **37 modalitních příkladů**, **9 systematických zásad** a **0 místních karet rozhodnutí**. Místní důvodová zpráva není součástí repozitáře; historický argument proto stojí jen na textu novelizačních částí a na výkladu v kapitolách.
+Místní korpus pro tuto mapu tvoří **úvod a 3 kapitoly** (celkem **4 místní soubory**), **24 samostatně nadepsaných ustanovení** (§ 1–16 včetně § 8a, § 8b, § 9a, § 9b, § 9c, § 10a, § 10b a § 12a), **37 modalitních příkladů**, **9 systematických zásad** a **1 místní kartu rozhodnutí** ([NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md), citovanou u § 1, § 8a, § 9 a § 10). Místní důvodová zpráva není součástí repozitáře; historický argument proto stojí jen na textu novelizačních částí a na výkladu v kapitolách.
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -78,7 +78,7 @@ Reprezentativní místní formulace:
 
 **Hloubkový test.**
 - Nejprve formulujte regulační problém (odklizení majetku, znehodnocení, ochrana nezúčastněných), poté účel ustanovení a nakonec hodnotu, kterou pravidlo chrání.
-- U každé zásady uveďte textovou oporu, funkci, typickou situaci použití a hranici jejího dosahu; zásady v [ZASADY.md](ZASADY.md) jsou dovozeny z textu a výkladu, nikoli z judikatorních tezí.
+- U každé zásady uveďte textovou oporu, funkci, typickou situaci použití a hranici jejího dosahu; zásady v [ZASADY.md](ZASADY.md) jsou dovozeny z textu a výkladu; jediná místní karta ([NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md)) je připojena jako podpůrná opora jen u zásady 7.
 - Při střetu zásad popište intenzitu zásahu, dostupné šetrnější řešení a důvod priority v konkrétním případě.
 - Účel ani zásada nesmějí vytvořit povinnost nebo výjimku, pro kterou místní text neposkytuje oporu (např. povinnost spravovat každý zajištěný majetek, kterou § 8a odst. 1 neukládá).
 
@@ -266,13 +266,26 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Místní složka judikatury zatím neexistuje: repozitář obsahuje **0 karet rozhodnutí**; soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly obsahují **0 citací nebo spisových značek rozhodovací praxe**. Složka `judikatura/` bude doplněna strojově později; do té doby jde o **mezeru**, nikoli o zjištění, že rozhodovací praxe neexistuje.
-- [Komentář k zákonu č. 279/2003 Sb.](00-uvod.md): „Repozitář neobsahuje místní judikaturu k tomuto zákonu, a komentář proto neuvádí žádné spisové značky ani právní věty“
-- [Poznámka k metodě](00-uvod.md): „Kazuistiky jsou modelové situace, nikoli popisy skutečných rozhodnutí; komentář neobsahuje judikaturu ani vymyšlené spisové značky.“
+Složka `judikatura/` obsahuje **1 kartu rozhodnutí**: [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) ze dne 22. 12. 2022, kategorie A. Kapitoly ji citují u [§ 1](01-obecna-vykon-zajisteni.md) a u [§ 8a, § 9 a § 10](02-sprava-zajisteneho-majetku.md); za každým blokem karty následuje odstavec, který určuje, zda karta k danému ustanovení míří přímo, nebo nepřímo. Jiné rozhodnutí místní korpus neobsahuje.
 
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Modelové situace v oddílech F. Kazuistika jsou autorské a nesmějí být citovány jako rozhodovací praxe.
+**Co karta říká (body I–III právní věty).**
+- **Vlastnictví se nemění.** Kapitoly citují začátek právní věty: „Rozhodnutím o zajištění majetku vydaným v trestním řízení nedochází ke změně vlastníka zajištěného majetku stejně tak nevede ke změně vlastníka zajištěného majetku ani případné následné písemné opatření, kterým příslušný orgán pověří k tomu určenou osobu správou zajištěného majetku“.
+- **Povaha správce.** „Správce zajištěného majetku podle zákona č. 279/2003 Sb. je zvláštním případem správce cizího majetku, přičemž jeho postavení je odvozeno od zajištění majetku vzniklého rozhodnutím státního orgánu.“
+- **Procesní nástup v insolvenčním řízení.** Uplatnil-li věřitel pohledávku přihláškou v insolvenčním řízení, činí správce zajištěného majetku namísto něj a jeho zástupce úkony podle § 10 odst. 3 v insolvenčním řízení i v incidenčním sporu; podle karty se tak děje bez dalšího okamžikem, kdy se pověření ke správě stane účinným, a po zrušení zajištění oprávněným orgánem insolvenční soud se správcem přestane jednat. Správce musí být označen tak, aby bylo patrné, že jedná ve funkci správce zajištěného majetku, včetně nezaměnitelného označení osoby, s jejímž majetkem nakládá.
+- **Správce není věřitelem z hlediska hmotného práva** (bod III). Přihlásí-li stejnou pohledávku postupitel i postupník a je-li pohledávka zajištěna v trestním řízení, insolvenční soud musí obě přihlášky přezkoumat samostatně a zjistit, komu pohledávka náleží. Bod II (námitka neplatnosti postupní smlouvy, neoznámil-li postupitel dlužníku postoupení) se zákona č. 279/2003 Sb. netýká.
 
-**Priority pro budoucí doplnění karet** (podle výkladových otázek místních kapitol):
+**K čemu karta míří přímo a nepřímo.**
+- **Přímo k § 9** — kapitola 2: „Karta míří k § 9 přímo. Pověření ke správě zajištěného majetku podle ní nemění vlastníka zajištěného majetku; pověřený správce nabývá oprávnění s majetkem disponovat k naplnění účelu správy, a to bez dalšího okamžikem, kdy se pověření stane účinným.“
+- **Přímo k § 10 odst. 3** — kapitola 2: „Oprávnění podle odst. 3 je tedy procesní a slouží ochraně zajištěného majetku; hmotněprávní postavení věřitele neřeší.“
+- **Nepřímo k § 1** — kapitola 1: výkon zajištění a správa majetku „omezují dispozici s ním, nikoli převádějí právo: majetek po celou dobu zajištění zůstává majetkem obviněného (nebo jiné osoby podle odst. 7)“.
+- **Nepřímo k § 8a** — kapitola 2: „správce jedná za účelem ochrany cizího majetku, ne jako jeho vlastník, a rozsah jeho jednání je vymezen účelem správy.“
+
+**Hranice použitelnosti.**
+- **Skutkový kontext.** Právní věta je formulována pro insolvenční řízení a incidenční spor, v nichž stejnou pohledávku přihlásili postupitel i postupník, mezi nimiž je sporné, zda k platnému postoupení došlo, a pohledávka byla v průběhu insolvenčního řízení zajištěna v trestním řízení. Závěry o procesním nástupu správce jsou proto vázány na insolvenční řízení a předmět zajištění v podobě pohledávky; na jiná řízení podle § 10 odst. 3 (soudní, správní) je lze přenášet jen jako **syntézu**, nikoli jako judikatorní závěr.
+- **Číslování odstavců.** Právní věta odkazuje na „§ 9 odst. 1 a 7“; místní konsolidace má v § 9 jen odstavce 1 až 4 a pověření ke správě upravuje odst. 3. Kapitola 2 proto závěr karty vztahuje k obsahu ustanovení, nikoli k číslu odstavce; při dalším použití je třeba ověřit znění, které soud vykládal.
+- **Co karta neřeší.** Nevyjadřuje se k odpovědnosti správce za škodu (§ 8a odst. 3), k vyloučení věcí (§ 3, § 4), k prodeji (§ 12) ani k zákazům podle § 10 odst. 5. Modelové situace v oddílech F. Kazuistika zůstávají autorské a nesmějí být citovány jako rozhodnutí.
+
+**Otevřené priority** (výkladové otázky místních kapitol, k nimž místní karta chybí):
 - časový bod ztráty účinků návrhu na vklad (§ 2 odst. 3 věta třetí);
 - dopad § 3 na zajištění nástrojů a výnosů podle § 79a trestního řádu a na pracovní prostředky OSVČ;
 - standard „vážného zpochybnění“ vlastnictví třetí osoby (§ 4 odst. 2);
@@ -384,7 +397,7 @@ Kazuistiky ke krátkým ustanovením (§ 8b, § 9b, § 9c, § 10b, § 11, § 12a
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **úvodem a 3 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní složka judikatury zatím chybí a soubor zásad neposkytuje odkaz na místní kartu s citovatelnou tezí;
+- místní složka judikatury obsahuje jedinou kartu ([NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md)), která pokrývá jen povahu správy a postavení správce (§ 1, § 8a, § 9, § 10); k ostatním výkladovým otázkám místní karta chybí;
 - místní důvodová zpráva není součástí repozitáře, historický výklad proto nemá samostatnou oporu;
 - evropská a ústavní vrstva není v kapitolách samostatně rozpracována;
 - 33 výkladových otázek zůstává otevřených.
@@ -404,14 +417,14 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen konstatování absence | ano | ano | nenalezeno | ano |
-| [Kapitola 1](01-obecna-vykon-zajisteni.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 2](02-sprava-zajisteneho-majetku.md) | ano | ano | ano | nenalezeno | ano | ano | ano | nenalezeno |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | odkaz na kartu NS 29 ICdo 12/2021 | ano | ano | nenalezeno | ano |
+| [Kapitola 1](01-obecna-vykon-zajisteni.md) | ano | ano | ano | ano (§ 1, nepřímo) | ano | ano | ano | ano |
+| [Kapitola 2](02-sprava-zajisteneho-majetku.md) | ano | ano | ano | ano (§ 8a nepřímo; § 9, § 10 odst. 3 přímo) | ano | ano | ano | nenalezeno |
 | [Kapitola 3](03-novely-ucinnost.md) | ano | nenalezeno | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** citovatelná karta nebyla nalezena v žádné ze 4 částí; po strojovém doplnění složky `judikatura/` je nutné revidovat vrstvy 7 až 10.
+- **Judikatura:** jediná místní karta [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) je citována v [kapitole 1](01-obecna-vykon-zajisteni.md) (§ 1) a [kapitole 2](02-sprava-zajisteneho-majetku.md) (§ 8a, § 9, § 10); [kapitola 3](03-novely-ucinnost.md) kartu necituje. Při doplnění další karty je nutné revidovat vrstvy 7 až 10.
 - **Důkazy:** textový signál nebyl nalezen ve 2 ze 4 částí: [úvod](00-uvod.md), [kapitola 3](03-novely-ucinnost.md).
 - **Aplikace:** úvod modelovou situaci neobsahuje (odpovídá jeho funkci).
 - **Stav:** [kapitola 2](02-sprava-zajisteneho-majetku.md) neuvádí samostatně rozhodné znění; platí údaj úvodu (znění k 1. 1. 2026), u vyhlášky č. 88/2015 Sb. je třeba sledovat její změny zvlášť.

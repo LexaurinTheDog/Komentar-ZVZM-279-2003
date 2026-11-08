@@ -6,7 +6,7 @@
 
 ## Jak dokument používat
 
-Každá otázka odděluje tři věci: co lze podle současného místního korpusu říci, jak má sepisovatel otázku dále řešit a kde je místní podklad. Odkaz označuje místo k ověření, nikoli náhradu četby celé věty a jejího systematického kontextu. Není-li podklad v místním korpusu, dokument výslovně označí mezeru; absence místního podkladu sama nedokazuje, že právní pravidlo nebo judikatura neexistují. V tomto repozitáři zatím chybí místní důvodová zpráva i místní karty rozhodnutí (složka `judikatura/` bude doplněna strojově později).
+Každá otázka odděluje tři věci: co lze podle současného místního korpusu říci, jak má sepisovatel otázku dále řešit a kde je místní podklad. Odkaz označuje místo k ověření, nikoli náhradu četby celé věty a jejího systematického kontextu. Není-li podklad v místním korpusu, dokument výslovně označí mezeru; absence místního podkladu sama nedokazuje, že právní pravidlo nebo judikatura neexistují. V tomto repozitáři zatím chybí místní důvodová zpráva; složka `judikatura/` obsahuje jedinou kartu rozhodnutí — [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) — citovanou u § 1, § 8a, § 9 a § 10.
 
 ## 1. Jaký regulační problém, účel a hodnoty předpis sleduje?
 
@@ -143,19 +143,21 @@ Typické střety: rychlost výkonu proti ochraně třetích osob (doručení obv
 - [§ 10 — protiargumenty](02-sprava-zajisteneho-majetku.md): „odst. 5 výslovně zakazuje majetek využívat; řešením je údržba, nebo prodej“
 - [§ 9a — výklad](02-sprava-zajisteneho-majetku.md): „Podmínka neprodejnosti zdůrazňuje přednost prodeje (§ 12) před ukončením správy.“
 
-**Jak ji řešit.** U každé zásady určete textovou oporu, funkci, typické použití a hranici. Při střetu nepoužívejte zásadu jako slogan: popište dotčené hodnoty, intenzitu zásahu, možné šetrnější řešení a důvod priority v konkrétním skutkovém a procesním kontextu. Zásady v místním souboru jsou dovozeny z textu a výkladu, nikoli z judikatury; jejich váhu proto nepřeceňujte.
+**Jak ji řešit.** U každé zásady určete textovou oporu, funkci, typické použití a hranici. Při střetu nepoužívejte zásadu jako slogan: popište dotčené hodnoty, intenzitu zásahu, možné šetrnější řešení a důvod priority v konkrétním skutkovém a procesním kontextu. Zásady v místním souboru jsou dovozeny z textu a výkladu; místní karta [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) je připojena jen jako podpůrná opora u zásady 7 (účelová omezenost správcovských oprávnění). Váhu ostatních zásad proto nepřeceňujte.
 
 **Místní opora.** [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md)
 
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka judikatury zatím neexistuje: repozitář obsahuje **0** karet rozhodnutí; v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Složka `judikatura/` bude doplněna strojově později — do té doby jde o výslovně označenou **mezeru**.
-- [Komentář k zákonu č. 279/2003 Sb.](00-uvod.md): „tam, kde se výklad dosud neustálil, je to v textu výslovně označeno jako“ výkladová otázka.
+Složka `judikatura/` obsahuje **1** kartu rozhodnutí: [NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md) ze dne 22. 12. 2022 (kat. A). Kapitoly ji citují u § 1 a § 8a (nepřímá vazba) a u § 9 a § 10 odst. 3 (přímá vazba); soubor zásad na ni odkazuje u zásady 7. Z karty plyne, že rozhodnutí o zajištění ani pověření ke správě nemění vlastníka zajištěného majetku, že správce je zvláštním případem správce cizího majetku, že v insolvenčním řízení činí úkony namísto věřitele bez dalšího okamžikem účinnosti pověření a že se tím nestává věřitelem z hlediska hmotného práva.
+- [§ 9 — karta](02-sprava-zajisteneho-majetku.md): „Pověření ke správě zajištěného majetku podle ní nemění vlastníka zajištěného majetku; pověřený správce nabývá oprávnění s majetkem disponovat k naplnění účelu správy, a to bez dalšího okamžikem, kdy se pověření stane účinným.“
+- [§ 10 — karta](02-sprava-zajisteneho-majetku.md): „Oprávnění podle odst. 3 je tedy procesní a slouží ochraně zajištěného majetku; hmotněprávní postavení věřitele neřeší.“
+- [§ 1 — karta](01-obecna-vykon-zajisteni.md): „Karta se k § 1 vztahuje nepřímo.“
 
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Modelové situace v kazuistikách nejsou rozhodnutími a nelze je citovat jako praxi.
+**Hranice.** Právní věta je formulována pro insolvenční řízení a incidenční spor, v nichž stejnou pohledávku přihlásili postupitel i postupník a pohledávka byla zajištěna v trestním řízení; bod II (námitka neplatnosti postupní smlouvy) se zákona č. 279/2003 Sb. netýká. Právní věta odkazuje na „§ 9 odst. 1 a 7“, místní konsolidace má v § 9 jen odstavce 1 až 4 a pověření upravuje odst. 3. Ke všem ostatním výkladovým otázkám místní karta chybí a judikatorní odpověď se nesmí domýšlet; modelové situace v kazuistikách nejsou rozhodnutími.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém; rozhodnutí k paralelním ustanovením trestního řádu (§ 79b až § 79e, § 47) přenášejte jen po ověření shody textu. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; chybějící místní judikaturu označte jako mezeru. Prioritně hledejte rozhodnutí k § 2 odst. 3, § 3, § 4 odst. 2, § 6 odst. 2, § 8a odst. 3 a § 12 odst. 2.
+**Jak ji řešit.** U karty NS 29 ICdo 12/2021 i u každé případně doplněné karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady; závěry o procesním nástupu správce v insolvenčním řízení nepřenášejte bez dalšího na jiná řízení podle § 10 odst. 3. Ověřte, zda soud vykládal stejné znění a stejný právní problém; rozhodnutí k paralelním ustanovením trestního řádu (§ 79b až § 79e, § 47) přenášejte jen po ověření shody textu. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; chybějící místní judikaturu označte jako mezeru. Prioritně hledejte rozhodnutí k § 2 odst. 3, § 3, § 4 odst. 2, § 6 odst. 2, § 8a odst. 3 a § 12 odst. 2.
 
 **Místní opora.** [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md); [hloubkový výklad — judikatura](HLOUBKOVY-VYKLAD.md)
 
@@ -210,9 +212,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-obecna-vykon-zajisteni](01-obecn
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **úvod a 3 kapitoly** (24 ustanovení) a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **úvod a 3 kapitoly** (24 ustanovení) a **1** karta rozhodnutí ([NS 29 ICdo 12/2021](judikatura/NS-29-ICdo-12-2021.md)), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neposkytuje citovatelnou tezi (složka `judikatura/` bude doplněna strojově);
+- místní judikatura pokrývá jen povahu správy a postavení správce (karta NS 29 ICdo 12/2021 u § 1, § 8a, § 9 a § 10); k ostatním výkladovým otázkám místní karta chybí;
 - místní důvodová zpráva není součástí repozitáře;
 - evropská vrstva je zachycena jen odkazem na mezinárodní justiční spolupráci;
 - 33 výkladových otázek v kapitolách zůstává otevřených.
